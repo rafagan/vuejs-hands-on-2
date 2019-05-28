@@ -1,4 +1,4 @@
-# conquer-vue-hands-on-2
+# vue-hands-on
 
 ## Project setup
 ```
